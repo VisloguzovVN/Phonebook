@@ -4,5 +4,5 @@
 ==
 *[Код программы можно скачать по адресу:]* <https://github.com/VisloguzovVN/Phonebook/blob/main/Phonebook.py>
 ### При запуске программы выводится меню.
-*Вывод меню*
+
 ![*Вывод меню](https://github.com/VisloguzovVN/Phonebook/blob/main/Вывод%20меню.png)
